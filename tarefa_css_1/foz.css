@@ -1,0 +1,72 @@
+.tudo {
+    margin: auto;
+    width: 920px;
+}
+
+body {
+   background: #90EE90; 
+   font-family: "Times New Roman", Verdana, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.tudo h1 {
+    color: #006400;
+}
+
+.lugar {
+    background-color: #FFF;
+    border: 2px solid #CCC; 
+    border-color: #CCC #999 #999 #CCC; 
+    margin-bottom: 20px; 
+    padding: 10px; 
+    width: 640px;
+}
+
+.lugar img {
+   border: 1px solid #999;
+   width: 330px;
+   margin: 10px 10px 0 0;
+   padding: 2px;
+   float: left;
+}
+
+.lugar a {
+    color: #2E8B57;
+}
+
+.lugar a:hover {
+    color: #FFF;
+    background-color: #2E8B57;
+}
+
+.nota h3{
+    font-size: 17px;
+    margin-top: 4;
+}
+
+.nota ol {
+    font-size: 15px;
+}
+
+.nota p {
+    font-size: 15px;
+}
+
+.nota {
+    background-color:#90EE90;
+    border: 1px solid #999;
+    padding: 10px;
+    float: right;
+    width: 220px
+    
+}
+
+.lugares {
+    width: 620px;
+    float: left;
+}
+
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
